@@ -5,7 +5,7 @@ Module 1 Assignment
 - This project contains improvements to the CSS and HTML documents
 - CSS and HTML code have been changed to represent semantic structure
 - CSS has been condensed to remove duplicate styles
-https://oldaker94.github.io/horiseon-code-refactor/urban-octo-telegram-main/Develop/index.html
+- url: https://oldaker94.github.io/horiseon-code-refactor/urban-octo-telegram-main/Develop/index.html
 
 
 
